@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export default function AppTitle(props) {
   const {
     title = 'WIKITV',
-    subtitle = 'Are you looking for a movie or an actor?',
+    subtitle = 'Are you looking for a show or an actor?',
   } = props;
 
   return (
