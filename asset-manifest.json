@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/wikitv/static/js/main.af1313fd.js",
+    "static/js/787.a9bbcd41.chunk.js": "/wikitv/static/js/787.a9bbcd41.chunk.js",
+    "service-worker.js": "/wikitv/service-worker.js",
+    "index.html": "/wikitv/index.html",
+    "main.af1313fd.js.map": "/wikitv/static/js/main.af1313fd.js.map",
+    "787.a9bbcd41.chunk.js.map": "/wikitv/static/js/787.a9bbcd41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.af1313fd.js"
+  ]
+}
